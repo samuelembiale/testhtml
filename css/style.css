@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+}
+
+.center-buttons{
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    width: 50%;
+}
+
+input {
+
+    display: block;
+    width: 80%;
+    height: 50px;
+    border-radius: 100px;
+    border: 1px solid #ccc;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    border: none;
+    margin-top: 20px;
+    font-style: sans-serif;
+}
